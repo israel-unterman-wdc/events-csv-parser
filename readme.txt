@@ -1,3 +1,3 @@
-This is a DLL, written in C#, that supplies only a few functions:
-1. What file to parse
-2. Get the next event and params
+This is an EXE, written in C#, that parses the events from the eMonitor generated CSV file
+and then sends them to one of the HIM trackers with the corresponding get-event functions
+

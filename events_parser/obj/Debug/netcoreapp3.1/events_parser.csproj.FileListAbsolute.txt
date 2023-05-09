@@ -1,0 +1,13 @@
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.exe
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.deps.json
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.runtimeconfig.json
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.runtimeconfig.dev.json
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.dll
+c:\myprojects\events-csv-parser\events_parser\bin\Debug\netcoreapp3.1\events_parser.pdb
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.csprojAssemblyReference.cache
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.csproj.CoreCompileInputs.cache
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.AssemblyInfoInputs.cache
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.AssemblyInfo.cs
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.dll
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.pdb
+c:\myprojects\events-csv-parser\events_parser\obj\Debug\netcoreapp3.1\events_parser.genruntimeconfig.cache
